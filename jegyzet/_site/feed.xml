@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-14T21:48:59+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/10/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-10-14T21:44:50+02:00</published><updated>2025-10-14T21:44:50+02:00</updated><id>http://localhost:4000/jekyll/update/2025/10/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/10/14/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Cantor Fle Axima</title><link href="http://localhost:4000/2025/10/14/Cantor-fle-axima.html" rel="alternate" type="text/html" title="Cantor Fle Axima" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/Cantor-fle-axima</id><content type="html" xml:base="http://localhost:4000/2025/10/14/Cantor-fle-axima.html"><![CDATA[<p>közösrész-tétel</p>
+
+<blockquote>
+  <p>[!info] Definíció
+Ha minden $n\in\mathbb N$ számnak megfeleltetünk egy $I_n=$ {$x:a_n\leq x\leq b_n, x\in\mathbb R$} halmazt úgy, hogy $a_n\leq a_{n+1}$ és $b_n\leq b_{n+1}$, akkor: \(\bigcap^{\infty}_{n=1}I_n\neq\emptyset\) azaz az egymásba skatulyázott zárt intervallum sorozat elemeinek metszete nem üres, $\exists\xi\in\bigcap^{\infty}_{n=1}I_n, \xi\in\mathbb R$</p>
+</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[közösrész-tétel]]></summary></entry><entry><title type="html">De Moivre Ttel</title><link href="http://localhost:4000/2025/10/14/De-Moivre-ttel.html" rel="alternate" type="text/html" title="De Moivre Ttel" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/De-Moivre-ttel</id><content type="html" xml:base="http://localhost:4000/2025/10/14/De-Moivre-ttel.html"><![CDATA[<p>Minden $x$ valós szám és minden $n$ egész szám esetén fenn áll
+\((\cos x+i\sin x)^n=\cos nx+i\sin nx\)
+A tétel összeköti a komplex számokat a trigonometriával</p>
+<h4 id="bizonyítás-teljes-indukcióval">Bizonyítás teljes indukcióval</h4>
+
+<p>Ha n&gt;0</p>
+<ol>
+  <li>$n=1$ esetén az állítás igaz</li>
+  <li>Tegyük fel, hogy tetszőleges $k\in \mathbb Z$ esetén is igaz</li>
+  <li>$n=k+1$ esetén:
+$(\cos x+i\sin x)^{k+1}=(\cos x+i\sin x)^k(\cos x+i\sin x)=$ 
+$= (\cos kx+i\sin kx)(\cos x+i\sin x)$ <strong>az indukciós feltevés miatt</strong>
+$=\cos kx \cos x - \sin kx \sin x + \cos kx i\sin x + i\sin kx \cos x =$
+$= \cos ((k+1)x)+i\sin ((k+1)x)$ <strong>trigonometrikus azonosságok miatt</strong></li>
+</ol>
+
+<p>Ha n=0
+a képlet igaz, mivel $\cos 0x +i\sin 0x=1+i0=1$ és $(\cos x +i\sin x)^0=1$</p>
+
+<p>Ha n&lt;0
+vegyük azt az $m\in \mathbb Z^+,$ amelyre $n=-m$
+$(\cos x+i\sin x)^n=(\cos x +i\sin x)^{-m}={1\over(\cos x+i\sin x)^m}$
+$={1\over(\cos mx+i\sin mx)}=\cos mx-i\sin mx$ <strong>konjugáltal szorzunk</strong>
+$=\cos(-mx)+i\sin(-mx)=\cos nx +i\sin nx$</p>
+
+<p>tehát a tétel $\forall n\in\mathbb Z$-re igaz</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Minden $x$ valós szám és minden $n$ egész szám esetén fenn áll \((\cos x+i\sin x)^n=\cos nx+i\sin nx\) A tétel összeköti a komplex számokat a trigonometriával Bizonyítás teljes indukcióval]]></summary></entry><entry><title type="html">De Morgan Azonossgok</title><link href="http://localhost:4000/2025/10/14/De-Morgan-azonossgok.html" rel="alternate" type="text/html" title="De Morgan Azonossgok" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/De-Morgan-azonossgok</id><content type="html" xml:base="http://localhost:4000/2025/10/14/De-Morgan-azonossgok.html"><![CDATA[<p>Ezek az azonosságok a halmazelmélet két alapvető tétele</p>
+<h3 id="readylogika">ready/Logika</h3>
+<p>\(\lnot(A\land B)=\lnot A\lor\lnot B \text{ vagy }\overline{(A\land B)} = \overline A\lor\overline B\)
+\(\lnot(A\lor B)=\lnot A\land\lnot B \text{ vagy }\overline{(A\lor B)} = \overline A\land\overline B\)</p>
+<h3 id="halmazelmélet">Halmazelmélet</h3>
+<p>\(\overline{(A\cap B)} = \overline A\cup\overline B\)
+\(\overline{(A\cup B)} = \overline A\cap\overline B\)</p>
+<h3 id="boole-algebra">Boole algebra</h3>
+<p>\(\overline{(A\cdot B)} = \overline A+\overline B\)
+\(\overline{(A+ B)} = \overline A\cdot\overline B\)
+A logikai ÉS művelet átírható negációval VAGY műveletté és fordítva logikai VAGY művelet ÉS műveletté</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Ezek az azonosságok a halmazelmélet két alapvető tétele ready/Logika \(\lnot(A\land B)=\lnot A\lor\lnot B \text{ vagy }\overline{(A\land B)} = \overline A\lor\overline B\) \(\lnot(A\lor B)=\lnot A\land\lnot B \text{ vagy }\overline{(A\lor B)} = \overline A\land\overline B\) Halmazelmélet \(\overline{(A\cap B)} = \overline A\cup\overline B\) \(\overline{(A\cup B)} = \overline A\cap\overline B\) Boole algebra \(\overline{(A\cdot B)} = \overline A+\overline B\) \(\overline{(A+ B)} = \overline A\cdot\overline B\) A logikai ÉS művelet átírható negációval VAGY műveletté és fordítva logikai VAGY művelet ÉS műveletté]]></summary></entry><entry><title type="html">Dedekind Axima</title><link href="http://localhost:4000/2025/10/14/Dedekind-axima.html" rel="alternate" type="text/html" title="Dedekind Axima" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/Dedekind-axima</id><content type="html" xml:base="http://localhost:4000/2025/10/14/Dedekind-axima.html"><![CDATA[<p>Teljességi axióma, szétválaszthatósági axióma</p>
+
+<blockquote>
+  <p>[!info] Definíció
+Legyen A és B két nem üres halmaz és $\forall a\in A\text{ és } \forall b\in B: a\leq b$
+Ekkor $\exists\delta\in\mathbb R: \forall a\in A\text{ és }\forall b\in B\text{ esetén }a\leq\delta\leq b$</p>
+</blockquote>
+
+<p>Ez azt jelenti ha A bármely eleme kisebb, mint B bármely eleme, azaz A elemei a B halmaz alsó korlátjai, akkor létezik egy olyan valós szám, amely az A és a B halmaz elemei közé esik
+Tehát ha egy halmaz alulról korlátos, akkor van egy legnagyobb alsó korlátja</p>
+
+<p>Ezt fordítva nézve, azaz A bármely eleme nagyobb, mint B bármely eleme, azaz A halmaz elemei a B halmaz felső korlátjai, akkor létezik szintúgy egy olyan valós szám, amely A és B halmaz elemei közé esik
+Tehát ha egy halmaz felülről korlátos, akkor van egy legkisebb alsó korlátja</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Teljességi axióma, szétválaszthatósági axióma]]></summary></entry><entry><title type="html">Descartes Szorzat</title><link href="http://localhost:4000/2025/10/14/Descartes-szorzat.html" rel="alternate" type="text/html" title="Descartes Szorzat" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/Descartes-szorzat</id><content type="html" xml:base="http://localhost:4000/2025/10/14/Descartes-szorzat.html"><![CDATA[<blockquote>
+  <p>[!note] Definíció
+Az X, Y halmazok Descartes szorzatának vagy direkt szorzatának nevezzük azt a halmazt, melynek elemei azon rendezett párok, amiknek az első eleme X-beli, második Y-beli és a szorzat minden lehetséges párt tartalmaz.
+Jelölés: $X\times Y$</p>
+</blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[[!note] Definíció Az X, Y halmazok Descartes szorzatának vagy direkt szorzatának nevezzük azt a halmazt, melynek elemei azon rendezett párok, amiknek az első eleme X-beli, második Y-beli és a szorzat minden lehetséges párt tartalmaz. Jelölés: $X\times Y$]]></summary></entry><entry><title type="html">Fggvnyek Hatrrtke</title><link href="http://localhost:4000/2025/10/14/Fggvnyek-hatrrtke.html" rel="alternate" type="text/html" title="Fggvnyek Hatrrtke" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/Fggvnyek-hatrrtke</id><content type="html" xml:base="http://localhost:4000/2025/10/14/Fggvnyek-hatrrtke.html"><![CDATA[<p>ready/Függvények</p>]]></content><author><name></name></author><summary type="html"><![CDATA[ready/Függvények]]></summary></entry><entry><title type="html">Fggvnyek Tvolsga</title><link href="http://localhost:4000/2025/10/14/Fggvnyek-tvolsga.html" rel="alternate" type="text/html" title="Fggvnyek Tvolsga" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/Fggvnyek-tvolsga</id><content type="html" xml:base="http://localhost:4000/2025/10/14/Fggvnyek-tvolsga.html"><![CDATA[<p>Legyen $f$ és $g$ integrálható függvény $[0,1]$-en</p>
+
+<p>Ekkor $f$ és $g$ távolsága: \(\int_0^1(f_{(t)}-g_{(t)})^2dt\)</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Legyen $f$ és $g$ integrálható függvény $[0,1]$-en]]></summary></entry><entry><title type="html">Fggvnyek</title><link href="http://localhost:4000/2025/10/14/Fggvnyek.html" rel="alternate" type="text/html" title="Fggvnyek" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/Fggvnyek</id><content type="html" xml:base="http://localhost:4000/2025/10/14/Fggvnyek.html"><![CDATA[<blockquote>
+  <p>[!info] Definíció
+Ha az R reláció olyan, hogy $\forall x\in X((x,y)\in R)\land (((x,z)\in R)\Rightarrow y = z)$, akkor R függvény.</p>
+</blockquote>
+
+<p>$Dom(f)\to Domain(f)$
+$Ran(f)\to Range(f)$</p>
+
+<p>Az $F\subset X\times Y$</p>
+<ul>
+  <li>Szürjektív: ${\forall y\in Y}\land {\exists x\in X}\land (x,y)\in F \Rightarrow F(x)=y$</li>
+  <li>Injektív: $\forall x,y\in X\land x\neq z \Rightarrow F(x)\neq F(z)$</li>
+  <li>Bijektív: ha F szürjektív és bijektív</li>
+</ul>
+
+<h3 id="függvény-tulajdonságok">Függvény tulajdonságok</h3>
+
+<blockquote>
+  <p>[!info] Korlátosság</p>
+
+  <p>$f$ felülről korlátos, ha $\exists K\in\mathbb R$, amire $f(x)\leq K\quad(x\in D_f)$ vagy $R_f\subset(-\infty,K]$</p>
+
+  <p>$f$ alulról korlátos, ha $\exists K\in\mathbb R$, amire $f(x)\geq K\quad(x\in D_f)$ vagy $R_f\subset(-\infty,K]$</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td>$f$ korlátos, ha alulról és felülről is korlátos, azaz $\exists K\in\mathbb R,$ amire $</td>
+        <td>f(x)</td>
+        <td>\leq K,$ vagy $R_f\subset[-K,K]$</td>
+      </tr>
+    </tbody>
+  </table>
+</blockquote>
+
+<blockquote>
+  <p>[!info] Monotonitás
+$f$ monoton nő, ha $\forall(x_1,x_2)\in D_f$-re ahol $x_1\leq x_2\implies f(x_1)\leq f(x_2)$
+$f$ szigorúan monoton nő, ha $\forall(x_1,x_2)\in D_f$-re ahol $x_1&lt; x_2\implies f(x_1)&lt; f(x_2)$</p>
+
+  <p>$f$ monoton csökken, ha $\forall(x_1,x_2)\in D_f$-re ahol $x_1\geq x_2\implies f(x_1)\geq f(x_2)$
+$f$ szigorúan monoton nő, ha $\forall(x_1,x_2)\in D_f$-re ahol $x_1&gt; x_2\implies f(x_1)&gt;f(x_2)$</p>
+</blockquote>
+
+<blockquote>
+  <p>[!info] Paritás
+$f$ páros, ha $x\in D_f\implies -x\in D_f$ és $f(-x)=f(x)$
+$f$ páratlan, ha $x\in D_f\implies -x\in D_f$ és $f(-x)=-f(x)$</p>
+</blockquote>
+
+<blockquote>
+  <p>[!info] Periodikusság
+$f$ periodikus $p&gt;0$ periodussal, ha $f(x+p)=f(x),\quad x\in D_f\implies(x+p)\in D_f$</p>
+
+</blockquote>]]></content><author><name></name></author><category term="mat" /><category term="analizis" /><summary type="html"><![CDATA[[!info] Definíció Ha az R reláció olyan, hogy $\forall x\in X((x,y)\in R)\land (((x,z)\in R)\Rightarrow y = z)$, akkor R függvény.]]></summary></entry><entry><title type="html">Fggvnysorozatok Hatrrtke</title><link href="http://localhost:4000/2025/10/14/Fggvnysorozatok-hatrrtke.html" rel="alternate" type="text/html" title="Fggvnysorozatok Hatrrtke" /><published>2025-10-14T00:00:00+02:00</published><updated>2025-10-14T00:00:00+02:00</updated><id>http://localhost:4000/2025/10/14/Fggvnysorozatok-hatrrtke</id><content type="html" xml:base="http://localhost:4000/2025/10/14/Fggvnysorozatok-hatrrtke.html"><![CDATA[<p>https://math.bme.hu/~bkalmar/fvsorozatok_1.pdf</p>]]></content><author><name></name></author><summary type="html"><![CDATA[https://math.bme.hu/~bkalmar/fvsorozatok_1.pdf]]></summary></entry></feed>
