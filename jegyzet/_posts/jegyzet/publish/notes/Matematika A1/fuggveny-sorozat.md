@@ -5,4 +5,7 @@ date:
 tags: []
 share: true
 aliases:
+  - fuggveny-sorozat
 ---
+https://math.bme.hu/~bkalmar/fvsorozatok_1.pdf
+

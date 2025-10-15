@@ -5,4 +5,7 @@ date:
 tags: []
 share: true
 aliases:
+  - fuggveny-hatarertek
 ---
+[fuggvenyek](./fuggvenyek.md)
+
